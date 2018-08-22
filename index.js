@@ -1,7 +1,10 @@
 var katzDeliLine = [];
+ 
 
-function takeANumber(katzDeliLine, name) {
-  katzDeliLine.push(name);
+function takeANumber(katzDeliLine, n) {
+var n = [];
+  for (let i>0; i < katzDeliLine.length; i++); {
+ katzDeliLine.push(n);
 return "Welcome, " + name + ". You are number " + katzDeliLine.length + " in line." }
 
 function nowServing(katzDeliLine) {
@@ -22,3 +25,4 @@ function currentLine (katzDeliLine) {
   return "The line is currently empty.";
 }
 }
+
